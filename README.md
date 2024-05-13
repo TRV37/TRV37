@@ -1,4 +1,4 @@
-![Alt Text](./header.png)
+![Alt Text](./pictures/name.png)
 
 <!--Карточка профиля:-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TRV37&theme=react)
