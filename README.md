@@ -1,13 +1,12 @@
 ![Alt Text](./header.png)
-<!--Карточка профиля:-->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TRV37&theme=react" width="1000" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TRV37&theme=react" width="500" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TRV37&theme=react" width="500" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TRV37&theme=react" width="500" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TRV37&theme=react" width="500" />
-</div>
 
+<!--Карточка профиля:-->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TRV37&theme=react)
+
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TRV37&theme=react)](https://github.com/TRV37)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TRV37&theme=react)](https://github.com/TRV37)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TRV37&theme=react)](https://github.com/TRV37)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TRV37&theme=react)](https://github.com/TRV37)
 
 
 <!--
