@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRV37anuraghazra&show_icons=true&theme=transparent)
+![Your Github Stats](https://github-readme-stats.vercel.app/api?username=TRV37&show_icons=true&theme=transparent)
 
 <!--
 **TRV37/TRV37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
