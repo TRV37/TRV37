@@ -1,13 +1,5 @@
-### Hi there 👋
+![Alt Text](./header.png)
 
-![Your Github Stats](https://github-readme-stats.vercel.app/api?username=TRV37&show_icons=true&theme=transparent)
-<!--Карточка профиля:-->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TRV37&theme=solarized_dark)
-
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TRV37&theme=solarized_dark)](https://github.com/TRV37)
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TRV37&theme=solarized_dark)](https://github.com/TRV37)
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TRV37&theme=solarized_dark)](https://github.com/TRV37)
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TRV37&theme=solarized_dark)](https://github.com/TRV37)
 
 ![Your Github Stats](https://github-readme-stats.vercel.app/api?username=TRV37&show_icons=true&theme=react)
 <!--Карточка профиля:-->
